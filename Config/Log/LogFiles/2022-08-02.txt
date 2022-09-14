@@ -1,0 +1,84 @@
+[2022-08-02 09:36:44] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 09:37:06] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 09:37:06] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 09:38:17] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 09:46:25] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 09:46:50] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:14:48] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:15:34] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:15:34] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:15:35] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:17:07] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:22:09] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:22:33] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:23:08] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 10:23:58] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:05:15] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:08:58] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:09:15] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:12:35] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:12:48] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:12:48] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:12:48] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:12:49] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:12:50] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:12:51] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:15:45] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:15:46] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:15:46] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:16:43] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:16:48] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 11:18:51] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:18:52] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:32:01] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 11:32:01] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:01:05] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:01:21] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:01:52] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:01:52] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:01:53] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:01:53] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:00] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:00] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:00] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:05] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:12] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:12] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:12] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:14] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:14] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:02:15] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:11] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:13] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:14] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:15] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:16] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:16] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:16] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:17] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:17] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:18] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:09:31] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:14:04] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:14:26] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:14:35] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:15:39] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:15:41] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:16:15] warning: Access denied in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 12:34:04] warning: File not found in /home/hoshiko/projects/www/html/mvc/View.php on line no. 14
+[2022-08-02 15:21:27] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:21:46] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:21:47] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:21:47] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:21:47] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:22:10] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:22:11] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:23:12] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:23:13] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:23:13] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:23:13] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:26:17] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-08-02 15:26:43] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 15:27:23] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 16:33:51] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-08-02 16:51:13] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14

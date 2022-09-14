@@ -1,0 +1,26 @@
+[2022-07-20 17:26:56] warning: Variable not found
+[2022-07-20 17:28:11] warning: <b>Exception:</b>Variable not found in <b>/home/hoshiko/projects/www/html/mvc/Config/Request.php</b> on line no. <b>13</b>
+[2022-07-20 17:29:09] warning: 
+[2022-07-20 17:29:52] warning: <b>Exception:</b>Variable not found in <b>/home/hoshiko/projects/www/html/mvc/Config/Request.php</b> on line no. <b>14</b>
+[2022-07-20 17:30:49] warning: Exception:Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:31:26] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:31:53] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:32:21] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:32:58] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:32:58] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:32:59] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:09] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:38] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:38] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:38] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:38] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:38] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:38] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:40:39] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:41:30] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:41:30] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:41:31] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:41:31] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:46:50] warning: File Not Found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:53:57] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-20 17:54:14] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14

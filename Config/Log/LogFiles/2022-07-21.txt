@@ -1,0 +1,58 @@
+[2022-07-21 09:10:59] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-21 10:59:55] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-21 11:00:04] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14
+[2022-07-21 11:00:25] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 11:00:58] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 11:17:49] warning: Cannot redirect it back as there's no back url posted in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:48] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:56] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:57] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:58] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:58] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:58] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:58] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:59] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:59] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:08:59] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:09:02] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:09:03] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:09:03] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:09:03] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:09:03] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:11:48] warning: Array required String given in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:20:37] warning: Status not defined in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:20:52] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:03] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:04] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:04] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:04] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:04] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:05] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:05] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:05] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:21:05] warning: Status not defined in code list in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:22:30] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:23:39] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:23:40] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:23:40] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:23:40] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:23:40] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:23:53] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:24:26] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:24:27] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:24:27] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:24:27] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:24:28] warning: Status code should be one of [208,226,305,307,308,417,422,424,426,428,429,431,508,510,511,0,100,101,102] in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:33:27] warning: Url not found in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:33:55] warning: Url not found in /home/hoshiko/projects/www/html/mvc/Config/Response.php on line no. 14
+[2022-07-21 12:33:55] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 12:34:02] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 12:34:03] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 12:34:04] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 12:34:36] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 12:35:12] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 12:35:37] warning: Route not found in /home/hoshiko/projects/www/html/mvc/Config/router.php on line no. 14
+[2022-07-21 17:00:10] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-21 17:00:33] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-21 17:04:41] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-21 18:06:00] warning: Variable not found in /home/hoshiko/projects/www/html/mvc/Config/Request.php on line no. 14

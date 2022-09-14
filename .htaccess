@@ -1,0 +1,12 @@
+#Run Config/index.php on every url
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^.]+)$ Config/index.php [L]
+
+#set error reporting on
+php_flag display_startup_errors on
+php_flag display_errors on
+
+#to get all the browser errors in logs file
+php_flag log_errors On
+#php_value error_log "/home/hoshiko/projects/www/html/mvc/Config/Log/LogFiles/logs.php"

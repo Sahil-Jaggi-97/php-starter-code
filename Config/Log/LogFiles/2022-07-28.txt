@@ -1,0 +1,9 @@
+[2022-07-28 10:23:08] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:25:50] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:38:26] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:42:51] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:45:31] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:45:31] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:45:31] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:45:31] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-28 10:55:39] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14

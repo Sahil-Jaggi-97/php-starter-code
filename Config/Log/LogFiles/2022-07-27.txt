@@ -1,0 +1,5 @@
+[2022-07-27 15:54:24] warning: There's some error in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-27 16:43:02] warning: There's some error in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-27 17:05:10] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-27 17:06:35] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
+[2022-07-27 17:16:24] warning: Check your sql query in /home/hoshiko/projects/www/html/mvc/Model/MainModel.php on line no. 14
